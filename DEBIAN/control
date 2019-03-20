@@ -1,0 +1,11 @@
+Package: ceph-exporter
+Version: 1.0.0
+Section: ceph-exporter
+Priority: optional
+Depends:
+Suggests:
+Architecture: amd64
+Installed-Size:
+Maintainer: wuxingyi(wuxy158@chinaunicom.cn)
+Provides: ceph_exporter
+Description: exporter for prometheus
